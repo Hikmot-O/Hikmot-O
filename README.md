@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hikmot-O
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript, React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on different exciting projects
 - 📫 How to reach me - hikmotokunola@gmail.com
 
