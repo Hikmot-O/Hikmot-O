@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hikmot-O
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on different exciting projects
+- 👀 I’m interested in Frontend Development and web animations
+- 🌱 I’m currently learning Nextjs and TypeScript
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me - hikmotokunola@gmail.com
 
 <!---
